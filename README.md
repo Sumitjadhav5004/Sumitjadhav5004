@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sumit Nana Jadhav</h1>
+<h3 align="center">Software Developer | Data Science Intern | ML & Web Dev Enthusiast</h3>
 
-<!--
-**Sumitjadhav5004/Sumitjadhav5004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 Final-year **Computer Engineering** student (SPPU)  
+- 💻 Passionate **SDE + Data Science** developer  
+- 🔥 Skilled in **Full-Stack Web Development & Machine Learning**  
+- 📊 Love solving real-world problems using tech  
+- 🧠 Currently working on **Fraud Detection, EV Analysis & ML Hackathons**  
+- 🎯 Interested in **Backend, Data Analyst, and Machine Learning roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack  
+#### **💻 Programming Languages**  
+- Python · Java · JavaScript · SQL  
+
+#### **🎨 Frontend Development**  
+- HTML5 · CSS3 · JavaScript (ES6+)  
+- React.js (Hooks, Components, Routing)  
+
+#### **⚙️ Backend Development**  
+- Node.js · Express.js  
+- REST APIs  
+- MongoDB · Docker Basics  
+
+#### **🤖 Machine Learning / Data Science**  
+- Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · XGBoost  
+
+#### **🧰 Tools & Platforms**  
+- Git & GitHub · VS Code · Power BI · Tableau  
+- Jupyter Notebook · Postman  
+- AWS Basics  
+
+---
+
+### 📌 Featured Projects  
+- 🔐 **Credit Card Fraud Detection** – ML model with high accuracy  
+- ✈️ **Flight Distance Prediction** – MachineHack Week 26  
+- 🛒 **Amazon MCF Integration Tool** – E-commerce automation (Node + APIs)  
+- 🏗️ **Smart Construction Cost Estimator** – ML-based cost prediction  
+- ⚡ **EV Analytics Dashboard** – Data visualization  
+- 🌦️ **Weather Analyzer (DSBDA)** – Year-wise, month-wise analysis  
+- 🚕 **Uber Ride Price Prediction Model** – ML + data engineering  
+- 🔊 **Java Socket Programming – Echo Server/Client**  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SumitNanaJadhav&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitNanaJadhav&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect With Me  
+- 📧 Email: **sumitjadhav5004@gmail.com**    
+- 📍 From: Kankavli, Maharashtra  
+
+---
+
+⭐ **If you find my work helpful, drop a star!**
