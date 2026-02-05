@@ -48,6 +48,9 @@
 
 ---
 
+[![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitjadhav5004&include_all_commits=true&count_private=true&theme=aura)](https://github.com/Sumitjadhav5004)
+
+
 
 ### 🌐 Connect With Me  
 - 📧 Email: **sumitjadhav5004@gmail.com**    
