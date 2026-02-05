@@ -48,8 +48,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitjadhav5004&include_all_commits=true&count_private=true&theme=github_dark)
-
+https://github-readme-stats.vercel.app/api?username=Sumitjadhav5004
 
 
 ### 🌐 Connect With Me  
